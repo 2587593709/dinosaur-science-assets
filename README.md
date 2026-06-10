@@ -8,3 +8,9 @@ GitHub Pages paths:
 - `/dinosaur-assets/trex.jpg`
 - `/dinosaur-assets/triceratops.jpg`
 - `/dinosaur-assets/stegosaurus.jpg`
+- `/dinosaur-assets/plateosaurus.jpg`
+- `/dinosaur-assets/coelophysis.jpg`
+- `/dinosaur-assets/brachiosaurus.jpg`
+- `/dinosaur-assets/allosaurus.jpg`
+- `/dinosaur-assets/ankylosaurus.jpg`
+- `/dinosaur-assets/spinosaurus.jpg`
